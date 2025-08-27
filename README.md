@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Google Cloud Platfrom**
+- 💬 Ask me about **GCP*
 
 - 📫 How to reach me **keiwahyu19@gmail.com**
 
